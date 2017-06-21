@@ -13,5 +13,3 @@ def get_roots(a, b, c):
     else:
         return None, None
 
-
-print(get_roots(1, -2, 1))
